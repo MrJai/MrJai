@@ -23,7 +23,7 @@ If you like my work, consider buying me a :coffee:<br>
 - 💬 Ask me about **Flutter, Dart, Swift, Objective C, NodeJS, AWS** (I wil be happy to help).
 - 📫 Reach me: **[Twitter](https://twitter.com/rana_jai), [Instagram](https://instagram.com/junaid115)**
 - ⚡️ Sports: I love :cricket_bat_and_ball: :soccer:️ :man-biking: :rugby_football:
-- :earth_asia: Networking: I love to socialise, travel, learn, grow, and meet new people.
+- :earth_asia: Networking: I love to **socialise**, **travel**, **learn**, **grow**, and **meet new people**.
 
 <br>
 <br>
