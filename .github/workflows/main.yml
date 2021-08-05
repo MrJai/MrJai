@@ -20,7 +20,7 @@ jobs:
           plugin_languages_limit: 10                                     # Display up to 8 languages
           plugin_languages_sections: most-used, recently-used           # Display most used and recently used languages stats
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
-          plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
-          plugin_languages_recent_days: 7                               # Limit recently used stats to last week
+          plugin_languages_recent_load: 1000                             # Load up to 1000 events to compute recently used stats
+          plugin_languages_recent_days: 14                               # Limit recently used stats to last two weeks
           commits_authoring: MrJai@users.noreply.github.com             # Surnames or email addresses used to identify your commits
 
