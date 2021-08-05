@@ -22,7 +22,7 @@ If you like my work, consider buying me a :coffee:<br>
 - 💬 Ping me about **Mobile App Development**, **UX Design**, **Architecture**, **Development**, **Problem Solving**, **Design Thinking**
 - 💬 Ask me about **Flutter, Dart, Swift, Objective C, NodeJS, AWS** (I wil be happy to help).
 - 📫 Reach me: **[Twitter](https://twitter.com/rana_jai), [Instagram](https://instagram.com/junaid115)**
-- ⚡️ Sports: I love :cricket_bat_and_ball: :soccer:️ :man-biking: :rugby_football:
+- ⚡️ Sports: I love :cricket_game: :rugby_football: :soccer: :tennis: :biking_man:
 - :earth_asia: Networking: I love to **socialise**, **travel**, **learn**, **grow**, and **meet new people**.
 
 <br>
