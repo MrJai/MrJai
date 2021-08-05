@@ -1,7 +1,7 @@
 
-# Hi there 👋
+## Hi there 👋
 
-I am **Junaid Rehmat**, a passionate developer, love anything tech. Experienced in mobile world, currently working as **Software Architect @baang-inc**.
+I am **Software Architect**, from Lahore, Pakistan :flag-pk: working at **[Baang](https://baang.it)**.
 
 ## Author 
 Author of Dart Package: **[Flutter to Airplay](https://pub.dev/packages/flutter_to_airplay)**
@@ -17,13 +17,14 @@ If you like my work, consider buying me a :coffee:<br>
 
 ---
 
-- 🔭 I’m currently working as **Software Architect @baang-inc**
-- 🌱 Currently I am learning and growing in **Flutter/Dart**.
-- :focus: I’m looking to collaborate/contribute to open source/commercial projects.
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about **Flutter, Dart, Swift, Objective C, NodeJS** (I wil be happy to help).
-- 📫 How to reach me:
-  **[Twitter](https://twitter.com/rana_jai), [Instagram](https://instagram.com/junaid115)**
+- 🏢 I'm currently working at **[Baang](https://baang.it)**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **Mobile App Development**, **UX Design**, **Architecture**, **Development**, **Problem Solving**, **Design Thinking**
+- 💬 Ask me about **Flutter, Dart, Swift, Objective C, NodeJS, AWS** (I wil be happy to help).
+- 📫 Reach me: **[Twitter](https://twitter.com/rana_jai), [Instagram](https://instagram.com/junaid115)**
+- ⚡️ Sports: I love :cricket_bat_and_ball: :soccer:️ :man-biking: :rugby_football:
+- :earth_asia: Networking: I love to socialise, travel, learn, grow, and meet new people.
+
 <br>
 <br>
 
