@@ -10,7 +10,7 @@ Author of Dart Package: **[Flutter to Airplay](https://pub.dev/packages/flutter_
 [![GitHub Junaid](https://img.shields.io/github/followers/MrJai?label=Junaid&style=social)](https://github.com/MrJai)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rana_jai?style=social)
 
-<a href="https://www.buymeacoffee.com/junaidR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/junaidR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
 
 ---
