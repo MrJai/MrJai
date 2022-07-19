@@ -25,7 +25,7 @@ Author of Flutter Package: **[Flutter to Airplay](https://pub.dev/packages/flutt
     <br>
     <br>
 - 💬 Ask me about (I wil be happy to respond)
-  - Flutter !["Flutter"](https://img.shields.io/badge/--blue?logo=Flutter)
+  - Flutter
   - Dart
   - Swift
   - SwiftUI
