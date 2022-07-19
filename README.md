@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Junaid Rehmat is a **Software Architect**, from Lahore, Pakistan :flag-pk: working at **[Devsinc](https://devsinc.com)**.
+Junaid Rehmat is a **Software Architect**, from Lahore, Pakistan 🇵🇰 working at **[Devsinc](https://devsinc.com)**.
 
 ## Author
 
