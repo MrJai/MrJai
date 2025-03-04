@@ -38,7 +38,7 @@ Author of Flutter Package: **[Flutter to Airplay](https://pub.dev/packages/flutt
   - AWS
     <br>
     <br>
-- 📫 Reach me **[@Rana_jai](https://twitter.com/rana_jai)**
+- 📫 Reach me on **[Instagram](https://instagram.com/junaidrehmatofficial) | [LinkedIn](https://linkedin.com/in/junaidrehmat)**
 - ⚡️ Sports: I love :cricket_game: :rugby_football: :soccer: :tennis: :biking_man:
 - :earth_asia: Networking: I love to **socialise**, **travel**, **learn**, **grow**, and **meet new people**.
 
