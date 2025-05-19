@@ -21,7 +21,7 @@ Author of Flutter Package: **[Flutter to Airplay](https://pub.dev/packages/flutt
   - Design Thinking
   - Product Development
   - Team Building
-  - People Happiness
+  - Scaling Teams
     <br>
     <br>
 - 💬 Ask me about (I wil be happy to respond)
@@ -39,7 +39,7 @@ Author of Flutter Package: **[Flutter to Airplay](https://pub.dev/packages/flutt
     <br>
     <br>
 - 📫 Reach me on **[Instagram](https://instagram.com/junaidrehmatofficial) | [LinkedIn](https://linkedin.com/in/junaidrehmat)**
-- ⚡️ Sports: I love :cricket_game: :rugby_football: :soccer: :tennis: :biking_man:
+- ⚡️ Sports: I love :cricket_game: :rugby_football: :soccer:
 - :earth_asia: Networking: I love to **socialise**, **travel**, **learn**, **grow**, and **meet new people**.
 
 <br>
@@ -48,8 +48,6 @@ Author of Flutter Package: **[Flutter to Airplay](https://pub.dev/packages/flutt
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJai&layout=compact&theme=light&hide_border=true)
-
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=MrJai&show_icons=true&hide_border=true&theme=light)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MrJai)](https://github.com/MrJai/github-profile-trophy) -->
 <br>
